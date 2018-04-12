@@ -1,6 +1,6 @@
 {
-  "name": "react-native-thumbnail",
-  "version": "1.1.1",
+  "name": "@n1ru4l/react-native-thumbnail",
+  "version": "2.0.0-rc.0",
   "description": "",
   "main": "index.js",
   "scripts": {
